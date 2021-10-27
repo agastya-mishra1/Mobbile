@@ -1,0 +1,60 @@
+body{
+    background-color: gold;
+}
+.header_div{
+    background-color: red;
+    font-family: 'Libre Baskerville', serif;
+    color: gold;
+}
+.header_div img{
+    width: 80px;
+
+}
+.main_div{
+    padding:10px;
+    margin-top:10px;
+    border:2px groove red;
+}
+.main_div label{
+    width:350px;
+    padding:10px;
+    margin-bottom:5px;
+    box-shadow:8px 8px 10px orangered;
+}
+label{
+    font-size:20px;
+    color: black;
+}
+button{
+    width:200px;
+    height:50px;
+    
+}
+#take,#chec{
+    font-size: 18px;
+    color:white;
+}
+#camera,#result{
+    border:5px groove black;
+    width:350px;
+    height:350px;
+    box-shadow: 8px 8px 10px orangered;
+}
+
+.footer_div img{
+    width: 80px;
+}
+.footer_div h4{
+    background-color: white;
+    border-radius: 10px;
+    padding:5px;
+    box-shadow: 8px 8px 10px red;
+}
+.copy_footer{
+    position:fixed;
+    background-color: red;
+    color:gold;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+}
